@@ -1,0 +1,1361 @@
+{
+  "about": {
+    "meta": {
+      "title": "About Us",
+      "description": "Learn about SparkleClean's mission, our certified cleaning team, and our commitment to spotless results for every home and office.",
+      "keywords": "cleaning, about us, cleaning company, professional cleaners, SparkleClean"
+    },
+    "pageHeader": {
+      "title": "About SparkleClean",
+      "crumb": "About Us"
+    },
+    "mission": {
+      "heading": {
+        "eyebrowIcon": "fa-bullseye",
+        "eyebrow": "Our Mission",
+        "title": "Making Clean Simple , Accessible & Guaranteed",
+        "subtitle": "We believe a spotless environment is the foundation of a healthier, happier life — which is why we built a team of certified professionals dedicated to perfection in every clean."
+      },
+      "body": "Founded in 2013, we started as a small family-run business with a single van and an unwavering commitment to quality. Today we serve more than 12,000 homes and businesses across the country, using only the safest, most effective cleaning products and techniques.",
+      "points": [
+        "Licensed & Insured",
+        "Eco-Friendly Products",
+        "Certified Professionals",
+        "100% Satisfaction Guarantee"
+      ],
+      "media": {
+        "mainImg": "/img/about.jpg",
+        "accentImg": "/img/commercial-1.jpg",
+        "alt": "SparkleClean professional cleaning team",
+        "accentAlt": "Our cleaners in action",
+        "badgeIcon": "fa-house-circle-check",
+        "badgeNum": "12,000+",
+        "badgeLabel": "spaces cleaned"
+      }
+    },
+    "values": {
+      "eyebrowIcon": "fa-heart",
+      "eyebrow": "Our Values",
+      "title": "The Principles Behind Every Clean",
+      "subtitle": "Four values guide every decision we make and every home we enter.",
+      "items": [
+        {
+          "icon": "fa-seedling",
+          "title": "Sustainable",
+          "desc": "Green-certified products and reusable tools for a cleaner planet."
+        },
+        {
+          "icon": "fa-star",
+          "title": "Excellence",
+          "desc": "Rigorous standards and quality checkpoints on every service."
+        },
+        {
+          "icon": "fa-handshake",
+          "title": "Integrity",
+          "desc": "Transparent pricing, honest communication, zero hidden fees."
+        },
+        {
+          "icon": "fa-bolt",
+          "title": "Reliability",
+          "desc": "Consistent, on-time service you can always count on."
+        }
+      ]
+    },
+    "whyChoose": {
+      "eyebrowIcon": "fa-medal",
+      "eyebrow": "Why Choose Us",
+      "title": "What Sets Us Apart",
+      "subtitle": "Six reasons thousands of customers trust us with their homes and offices.",
+      "items": [
+        {
+          "icon": "fa-shield-halved",
+          "title": "Fully Insured",
+          "desc": "Comprehensive coverage protects your property during every service."
+        },
+        {
+          "icon": "fa-leaf",
+          "title": "Eco-Friendly",
+          "desc": "Green-certified products safe for kids, pets and sensitive spaces."
+        },
+        {
+          "icon": "fa-clock",
+          "title": "Flexible Scheduling",
+          "desc": "Book 24/7 with real-time availability — days, evenings and weekends."
+        },
+        {
+          "icon": "fa-user-check",
+          "title": "Vetted Professionals",
+          "desc": "Every cleaner is background-checked and professionally trained."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Experience the SparkleClean Difference",
+      "subtitle": "Book your first clean today and see why thousands of happy customers trust us.",
+      "primaryLabel": "Get Your Free Quote",
+      "secondaryLabel": "View Services",
+      "secondaryHref": "/services",
+      "floats": [
+        "fa-sparkles",
+        "fa-broom"
+      ]
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact Us",
+      "description": "Contact SparkleClean for premium cleaning services. Get a free quote online or call (800) 555-1234.",
+      "keywords": "contact, cleaning services, free quote, booking, SparkleClean"
+    },
+    "pageHeader": {
+      "title": "Contact Us",
+      "crumb": "Contact",
+      "variant": "tall"
+    },
+    "intro": {
+      "tag": "Contact Us",
+      "title": "Ready to Book Your Clean?",
+      "text": "We're standing by to answer your questions and schedule your service."
+    },
+    "info": {
+      "heading": "Visit Us",
+      "address": [
+        "1234 Clean Street, Suite 200",
+        "San Francisco, CA 94103"
+      ],
+      "items": [
+        {
+          "icon": "fa fa-phone-alt",
+          "link": true,
+          "href": "tel:+18005551234",
+          "text": "(800) 555-1234",
+          "note": "Mon–Fri, 8am–8pm"
+        },
+        {
+          "icon": "fa fa-envelope",
+          "link": true,
+          "href": "mailto:hello@sparkleclean.com",
+          "text": "hello@sparkleclean.com",
+          "note": "24/7 Email Support"
+        }
+      ],
+      "hours": [
+        {
+          "days": "Monday – Friday",
+          "time": "7:00 AM – 9:00 PM"
+        },
+        {
+          "days": "Saturday – Sunday",
+          "time": "8:00 AM – 6:00 PM"
+        }
+      ],
+      "socials": [
+        {
+          "label": "Facebook",
+          "icon": "fab fa-facebook-f",
+          "href": "#!"
+        },
+        {
+          "label": "Twitter",
+          "icon": "fab fa-twitter",
+          "href": "#!"
+        },
+        {
+          "label": "Instagram",
+          "icon": "fab fa-instagram",
+          "href": "#!"
+        },
+        {
+          "label": "LinkedIn",
+          "icon": "fab fa-linkedin-in",
+          "href": "#!"
+        },
+        {
+          "label": "YouTube",
+          "icon": "fab fa-youtube",
+          "href": "#!"
+        }
+      ]
+    },
+    "map": {
+      "src": "https://www.google.com/maps?q=1234%20Clean%20Street%2C%20Suite%20200%2C%20San%20Francisco%2C%20CA%2094103&output=embed",
+      "title": "SparkleClean location on Google Maps"
+    }
+  },
+  "footer": {
+    "about": "Premium cleaning services for homes and businesses. Licensed, insured, and backed by a 100% satisfaction guarantee.",
+    "ratingLabel": "(4.9/5 from 2,500 reviews)",
+    "companyLinks": [
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Our Team",
+        "href": "/team"
+      },
+      {
+        "label": "Reviews",
+        "href": "/testimonials"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "companyLinksWide": [
+      {
+        "label": "About Us",
+        "href": "/about"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Our Team",
+        "href": "/team"
+      },
+      {
+        "label": "Testimonials",
+        "href": "/testimonials"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "columns": [
+      {
+        "title": "Company",
+        "links": [
+          {
+            "label": "About Us",
+            "href": "/about"
+          },
+          {
+            "label": "Services",
+            "href": "/services"
+          },
+          {
+            "label": "Our Team",
+            "href": "/team"
+          },
+          {
+            "label": "Reviews",
+            "href": "/testimonials"
+          },
+          {
+            "label": "Contact",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "links": [
+          {
+            "label": "Residential",
+            "href": "/services"
+          },
+          {
+            "label": "Commercial",
+            "href": "/services"
+          },
+          {
+            "label": "Deep Cleaning",
+            "href": "/services"
+          },
+          {
+            "label": "Move-Out",
+            "href": "/services"
+          },
+          {
+            "label": "Carpet Care",
+            "href": "/services"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "label": "Contact",
+            "href": "/contact"
+          },
+          {
+            "label": "FAQs",
+            "href": "/#faq"
+          },
+          {
+            "label": "Terms",
+            "href": "#!"
+          },
+          {
+            "label": "Privacy",
+            "href": "#!"
+          },
+          {
+            "label": "Guarantee",
+            "href": "#!"
+          }
+        ]
+      },
+      {
+        "title": "Newsletter",
+        "type": "newsletter",
+        "text": "Get 10% off your first booking when you subscribe."
+      }
+    ],
+    "newsletter": {
+      "placeholder": "Your email"
+    }
+  },
+  "forms": {
+    "contact": {
+      "serviceOptions": [
+        "Residential Cleaning",
+        "Commercial Cleaning",
+        "Deep Cleaning",
+        "Move-Out Cleaning",
+        "Carpet & Upholstery"
+      ],
+      "panel": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "text",
+            "label": "Your Name",
+            "placeholder": "John Smith",
+            "required": true,
+            "col": "col-md-6",
+            "feedback": "Please enter your name."
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "label": "Your Email",
+            "placeholder": "john@email.com",
+            "required": true,
+            "col": "col-md-6",
+            "feedback": "Please enter a valid email."
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "label": "Phone Number",
+            "placeholder": "(555) 000-0000",
+            "col": "col-md-6"
+          },
+          {
+            "name": "service-type",
+            "type": "select",
+            "label": "Service Type",
+            "col": "col-md-6",
+            "selectPlaceholder": "Select a service",
+            "selectPlaceholderDisabled": true,
+            "options": [
+              "Residential Cleaning",
+              "Commercial Cleaning",
+              "Deep Cleaning",
+              "Move-Out Cleaning",
+              "Carpet & Upholstery"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "label": "How can we help?",
+            "rows": 5,
+            "placeholder": "Tell us about your space and what you need cleaned...",
+            "required": true,
+            "col": "col-12",
+            "feedback": "Please write a message."
+          }
+        ],
+        "submit": {
+          "label": "Send Message",
+          "icon": "fa-paper-plane"
+        },
+        "success": "Thank you! Your message has been sent. We'll be in touch shortly."
+      },
+      "page": {
+        "fields": [
+          {
+            "name": "name",
+            "type": "text",
+            "placeholder": "Your Name *",
+            "required": true,
+            "col": "col-md-6",
+            "feedback": "Please enter your name."
+          },
+          {
+            "name": "email",
+            "type": "email",
+            "placeholder": "Your Email *",
+            "required": true,
+            "col": "col-md-6",
+            "feedback": "Please enter a valid email."
+          },
+          {
+            "name": "phone",
+            "type": "tel",
+            "placeholder": "Phone Number",
+            "col": "col-12"
+          },
+          {
+            "name": "service-type",
+            "type": "select",
+            "col": "col-12",
+            "selectPlaceholder": "Select a Service",
+            "options": [
+              "Residential Cleaning",
+              "Commercial Cleaning",
+              "Deep Cleaning",
+              "Move-Out Cleaning",
+              "Carpet & Upholstery"
+            ]
+          },
+          {
+            "name": "message",
+            "type": "textarea",
+            "rows": 5,
+            "placeholder": "How can we help you? *",
+            "required": true,
+            "col": "col-12",
+            "feedback": "Please write a message."
+          }
+        ],
+        "submit": {
+          "label": "Send Message"
+        },
+        "success": ""
+      }
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "SparkleClean — Premium Cleaning Services for Home & Office",
+      "description": "Premium residential and commercial cleaning services. Vetted, insured professionals, eco-friendly products and a 100% satisfaction guarantee. Book online 24/7.",
+      "keywords": "cleaning service, house cleaning, commercial cleaning, deep cleaning, move out cleaning, SparkleClean"
+    },
+    "hero": {
+      "video": "/img/hero-clean.mp4",
+      "poster": "/img/hero-bg.jpg",
+      "title": {
+        "pre": "Your Home,\nDeep-Cleaned ",
+        "accent": "to Perfection"
+      },
+      "subtitle": "Premium residential & commercial cleaning by vetted, fully-insured professionals. Eco-friendly products, flexible scheduling, and a 100% satisfaction guarantee on every single visit.",
+      "primaryCta": {
+        "label": "Book a Cleaning",
+          "href": "/book",
+        "icon": "fa-calendar-check"
+      },
+      "secondaryCta": {
+        "label": "Explore Our Services",
+        "href": "#services"
+      },
+      "trustItems": [
+        {
+          "icon": "fa-shield-halved",
+          "title": "Fully Insured",
+          "desc": ""
+        },
+        {
+          "icon": "fa-clock",
+          "title": "24/7 Support",
+          "desc": ""
+        },
+        {
+          "icon": "fa-leaf",
+          "title": "Eco-Friendly Products",
+          "desc": ""
+        },
+        {
+          "icon": "fa-award",
+          "title": "Background-Checked Pros",
+          "desc": ""
+        }
+      ],
+      "floatIcons": [
+        "fa-soap",
+        "fa-spray-can-sparkles",
+        "fa-shield-halved"
+      ],
+      "scrollCue": "Scroll to explore"
+    },
+    "stats": [
+      {
+        "icon": "fa-calendar-days",
+        "label": "Years of Experience",
+        "count": 12,
+        "suffix": "+"
+      },
+      {
+        "icon": "fa-house-circle-check",
+        "label": "Homes & Offices Cleaned",
+        "count": 12000,
+        "suffix": "+"
+      },
+      {
+        "icon": "fa-face-smile",
+        "label": "Customer Satisfaction",
+        "count": 98,
+        "suffix": "%"
+      },
+      {
+        "icon": "fa-headset",
+        "label": "Online Booking & Support",
+        "count": 24,
+        "suffix": "/7"
+      }
+    ],
+    "services": {
+      "eyebrowIcon": "fa-brush",
+      "eyebrow": "Our Services",
+      "title": "Everything Your Space Needs to Shine",
+      "subtitle": "From everyday maintenance to intensive deep restoration, every clean is tailored to your home or business.",
+      "items": [
+        {
+          "img": "/img/service-1.jpg",
+          "alt": "Residential cleaning by professional cleaner",
+          "icon": "fa-house-chimney",
+          "tag": "Popular",
+          "title": "Residential Cleaning",
+          "desc": "Meticulous cleaning of every room in your home — kitchen, bathrooms, living areas and floors.",
+          "price": "$129",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/service-2.jpg",
+          "alt": "Commercial office cleaning",
+          "icon": "fa-building",
+          "title": "Commercial Cleaning",
+          "desc": "Offices, retail stores and corporate spaces kept pristine, hygienic and productivity-ready.",
+          "price": "$299",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/service-3.jpg",
+          "alt": "Deep cleaning service",
+          "icon": "fa-broom",
+          "tag": "Intensive",
+          "title": "Deep Cleaning",
+          "desc": "Detail-focused cleaning that removes built-up grime, allergens and hidden buildup everywhere.",
+          "price": "$399",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/service-4.jpg",
+          "alt": "Move out cleaning service",
+          "icon": "fa-box-open",
+          "title": "Move-Out Cleaning",
+          "desc": "Turnover-perfect cleaning that restores homes to move-in condition and protects your deposit.",
+          "price": "$349",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        }
+      ]
+    },
+    "about": {
+      "heading": {
+        "eyebrowIcon": "fa-circle-info",
+        "eyebrow": "About SparkleClean",
+        "title": "The Cleaners Your Neighbors Recommend",
+        "subtitle": "Founded in 2013, SparkleClean began with one van and a simple promise: show up on time, clean every detail, and treat every home like our own. Today we're a trusted team of certified professionals serving thousands of homes and businesses."
+      },
+      "media": {
+        "mainImg": "/img/about.jpg",
+        "accentImg": "/img/commercial-1.jpg",
+        "alt": "Our professional cleaning team at work",
+        "accentAlt": "SparkleClean cleaning professionals",
+        "badgeIcon": "fa-award",
+        "badgeNum": "12+ Years",
+        "badgeLabel": "of trusted service"
+      },
+      "checklist": [
+        {
+          "strong": "100% satisfaction guarantee",
+          "text": "— we re-clean any area that falls short, free."
+        },
+        {
+          "strong": "Fully licensed & insured",
+          "text": "— your property and belongings are always protected."
+        },
+        {
+          "strong": "Eco-friendly products",
+          "text": "— safe for children, pets and the planet."
+        },
+        {
+          "strong": "Background-checked pros",
+          "text": "— every cleaner is vetted and trained."
+        }
+      ],
+      "primaryCta": {
+        "label": "Learn More About Us",
+        "href": "/about",
+        "icon": "fa-arrow-right"
+      },
+      "secondaryCta": {
+        "label": "Contact Us",
+        "href": "/contact"
+      }
+    },
+    "whyChoose": {
+      "eyebrowIcon": "fa-medal",
+      "eyebrow": "Why Choose Us",
+      "title": "The Difference Is in the Details",
+      "subtitle": "We don't just clean — we deliver peace of mind, backed by a team you can trust.",
+      "items": [
+        {
+          "icon": "fa-shield-halved",
+          "title": "Fully Insured",
+          "desc": "Comprehensive coverage protects your property and valuables during every single service."
+        },
+        {
+          "icon": "fa-leaf",
+          "title": "Eco-Friendly Products",
+          "desc": "Green-certified, non-toxic products that are safe for children, pets and sensitive environments."
+        },
+        {
+          "icon": "fa-clock",
+          "title": "Flexible Scheduling",
+          "desc": "Book online 24/7 with real-time availability — mornings, evenings and weekends included."
+        },
+        {
+          "icon": "fa-star",
+          "title": "Quality Guarantee",
+          "desc": "Not thrilled? We'll re-clean the area at no charge until you're completely satisfied."
+        },
+        {
+          "icon": "fa-user-check",
+          "title": "Vetted Professionals",
+          "desc": "Every team member passes background checks and hands-on training before stepping inside."
+        },
+        {
+          "icon": "fa-tags",
+          "title": "Transparent Pricing",
+          "desc": "Instant online quotes with zero hidden fees. The price you see is exactly what you pay."
+        }
+      ]
+    },
+    "process": {
+      "eyebrowIcon": "fa-list-check",
+      "eyebrow": "Our Process",
+      "title": "Simple. Seamless. Spotless.",
+      "subtitle": "Booking your professional clean takes just three easy steps.",
+      "items": [
+        {
+          "icon": "fa-calendar-check",
+          "title": "Schedule Online",
+          "desc": "Choose your service, date and time — and get an instant price in seconds."
+        },
+        {
+          "icon": "fa-broom",
+          "title": "We Arrive & Clean",
+          "desc": "Our uniformed, professional team arrives on time with premium eco supplies."
+        },
+        {
+          "icon": "fa-heart",
+          "title": "Enjoy & Review",
+          "desc": "We deep-clean every corner, you walk through and approve before we leave."
+        }
+      ]
+    },
+    "beforeAfter": {
+      "heading": {
+        "eyebrowIcon": "fa-wand-magic-sparkles",
+        "eyebrow": "Before & After",
+        "title": "Real Results. Real Fast.",
+        "subtitle": "Drag the slider to see the transformation our deep-cleaning team delivers."
+      },
+      "beforeImg": "/img/carousel-1.jpg",
+      "afterImg": "/img/carousel-2.jpg",
+      "beforeAlt": "Before cleaning - dated kitchen",
+      "afterAlt": "After deep cleaning - bright modern kitchen",
+      "beforeLabel": "Before",
+      "afterLabel": "After"
+    },
+    "gallery": {
+      "eyebrowIcon": "fa-images",
+      "eyebrow": "Our Work",
+      "title": "A Portfolio of Spotless Spaces",
+      "subtitle": "A glimpse inside the homes and workplaces we transform every day.",
+      "items": [
+        {
+          "img": "/img/interior-3.jpg",
+          "alt": "Deep-cleaned bright modern interior",
+          "label": "Full deep clean",
+          "tag": "Deep Clean",
+          "size": "featured"
+        },
+        {
+          "img": "/img/service-1.jpg",
+          "alt": "Sparkling clean residential living room",
+          "label": "Residential refresh",
+          "tag": "Home"
+        },
+        {
+          "img": "/img/service-3.jpg",
+          "alt": "Sanitized kitchen surfaces",
+          "label": "Kitchen detail",
+          "tag": "Kitchen"
+        },
+        {
+          "img": "/img/interior-1.jpg",
+          "alt": "Freshly cleaned modern office space",
+          "label": "Office care",
+          "tag": "Commercial"
+        },
+        {
+          "img": "/img/interior-2.jpg",
+          "alt": "Immaculate bathroom after cleaning visit",
+          "label": "Bathroom polish",
+          "tag": "Bathroom"
+        },
+        {
+          "img": "/img/service-2.jpg",
+          "alt": "Move-out cleaning with organized cabinets",
+          "label": "Move-out reset",
+          "tag": "Move-Out"
+        },
+        {
+          "img": "/img/service-4.jpg",
+          "alt": "Streak-free windows and natural light",
+          "label": "Window shine",
+          "tag": "Windows"
+        },
+        {
+          "img": "/img/interior-4.jpg",
+          "alt": "Tidied elegant bedroom suite",
+          "label": "Bedroom suite",
+          "tag": "Home",
+          "size": "wide"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrowIcon": "fa-comments",
+      "eyebrow": "Testimonials",
+      "title": "Loved by Thousands of Happy Customers",
+      "subtitle": "Real reviews from the homes and businesses that trust SparkleClean.",
+      "items": [
+        {
+          "quote": "SparkleClean transformed my home. After a long move I was dreading the deep clean, but their team left every surface gleaming. Worth every penny!",
+          "name": "Sarah Martinez",
+          "role": "Homeowner • Denver",
+          "avatar": "/img/testimonial-1.jpg"
+        },
+        {
+          "quote": "We use SparkleClean for our office every month and the difference is night and day. Professional, on-time, and thorough down to the last detail.",
+          "name": "Michael Burnham",
+          "role": "Office Manager • Nexus Corp",
+          "avatar": "/img/testimonial-2.jpg"
+        },
+        {
+          "quote": "The move-out clean saved our security deposit! Bathrooms, kitchen and floors looked brand new. Quick to respond and even quicker to deliver.",
+          "name": "Jessica Lee",
+          "role": "Renter • Portland",
+          "avatar": "/img/testimonial-3.jpg"
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrowIcon": "fa-tag",
+      "eyebrow": "Pricing & Booking",
+      "title": "Simple Pricing. Zero Surprises.",
+      "subtitle": "Transparent, no-hidden-fee plans for every home and budget. All backed by our 100% guarantee.",
+      "popularLabel": "Most Popular",
+      "plans": [
+        {
+          "name": "Standard",
+          "sub": "Bedrooms, bathrooms, kitchen & common areas",
+          "price": "129",
+          "period": "/visit",
+          "features": [
+            {
+              "text": "Dusting & wiping all surfaces"
+            },
+            {
+              "text": "Vacuuming & mopping floors"
+            },
+            {
+              "text": "Kitchen & bathroom refresh"
+            },
+            {
+              "text": "Trash removal"
+            },
+            {
+              "text": "Standard cleaning products"
+            }
+          ],
+          "cta": "Get Started"
+        },
+        {
+          "name": "Premium",
+          "sub": "Everything in Standard plus detail work",
+          "price": "219",
+          "period": "/visit",
+          "popular": true,
+          "features": [
+            {
+              "text": "Everything in Standard"
+            },
+            {
+              "text": "Inside appliances & cabinets"
+            },
+            {
+              "text": "Baseboards & light switches"
+            },
+            {
+              "text": "Glass & mirror polishing"
+            },
+            {
+              "text": "Eco-friendly premium products"
+            }
+          ],
+          "cta": "Book Premium",
+          "ctaVariant": "accent"
+        },
+        {
+          "name": "Deep Clean",
+          "sub": "Move-in / move-out intensive service",
+          "price": "399",
+          "period": "/visit",
+          "features": [
+            {
+              "text": "Everything in Premium"
+            },
+            {
+              "text": "Interior windows & tracks"
+            },
+            {
+              "text": "Behind & under furniture"
+            },
+            {
+              "text": "Oven & refrigerator cleaning"
+            },
+            {
+              "text": "Carpet spot treatment"
+            }
+          ],
+          "cta": "Book Now"
+        }
+      ]
+    },
+    "faq": {
+      "eyebrowIcon": "fa-circle-question",
+      "eyebrow": "FAQs",
+      "title": "Your Questions, Answered",
+      "subtitle": "Everything you need to know before booking your first clean.",
+      "items": [
+        {
+          "icon": "fa-clock",
+          "question": "How far in advance should I book?",
+          "answer": "We recommend booking at least 48 hours ahead, but same-day and emergency slots are often available. Book online 24/7 for real-time scheduling."
+        },
+        {
+          "icon": "fa-bottle-water",
+          "question": "Do you bring your own supplies?",
+          "answer": "Yes! We arrive with all professional-grade, eco-friendly supplies and equipment. Just point us to the spaces you'd like cleaned."
+        },
+        {
+          "icon": "fa-face-frown",
+          "question": "What if I'm not satisfied?",
+          "answer": "We stand behind our work 100%. If anything falls short of perfection, let us know within 24 hours and we'll re-clean it at no charge."
+        },
+        {
+          "icon": "fa-sliders",
+          "question": "Can I customize my cleaning?",
+          "answer": "Absolutely. Use the notes at checkout to specify priorities, off-limits areas, or special instructions for your cleaner."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready for a Spotless Home?",
+      "subtitle": "Join 12,000+ satisfied customers. Book your professional cleaning today and get a free instant quote.",
+      "primaryLabel": "Get Your Free Quote",
+      "secondaryLabel": "(800) 555-1234",
+      "secondaryHref": "tel:+18005551234",
+      "secondaryIcon": "fa-phone"
+    },
+    "contact": {
+      "heading": {
+        "eyebrowIcon": "fa-envelope-open-text",
+        "eyebrow": "Contact Us",
+        "title": "Let's Talk Clean",
+        "subtitle": "Questions or custom cleaning requests? Our team is ready to help."
+      },
+      "panel": {
+        "title": "We're Here to Help",
+        "sub": "Our friendly team is available seven days a week to answer questions and custom requests."
+      },
+      "formCard": {
+        "title": "Request Your Free Quote",
+        "sub": "Fill in the form and we'll get back to you within one business hour."
+      }
+    }
+  },
+  "navigation": {
+    "homeLabel": "Home",
+    "links": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/team",
+        "label": "Our Team"
+      },
+      {
+        "href": "/testimonials",
+        "label": "Reviews"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
+      }
+    ],
+    "cta": {
+      "label": "Book a Cleaning",
+      "href": "/book",
+      "icon": "fa-solid fa-calendar-check"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Services",
+      "description": "Book premium residential and commercial cleaning services from SparkleClean. Deep cleaning, move-out cleaning, carpet care and more. Free quotes!",
+      "keywords": "cleaning services, residential cleaning, commercial cleaning, deep cleaning, move-out cleaning, carpet care, SparkleClean"
+    },
+    "pageHeader": {
+      "title": "Our Cleaning Services",
+      "crumb": "Services"
+    },
+    "overview": {
+      "eyebrowIcon": "fa-brush",
+      "eyebrow": "Our Services",
+      "title": "Professional Cleaning for Every Need",
+      "subtitle": "From routine maintenance to deep restoration, we have the perfect solution for your space.",
+      "items": [
+        {
+          "img": "/img/service-1.jpg",
+          "alt": "Residential cleaning service",
+          "icon": "fa-house-chimney",
+          "tag": "Popular",
+          "title": "Residential Cleaning",
+          "desc": "Regular weekly or bi-weekly cleaning tailored to your home — kitchens, bathrooms, living areas, bedrooms and floors.",
+          "price": "$129",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/service-2.jpg",
+          "alt": "Commercial cleaning service",
+          "icon": "fa-building",
+          "title": "Commercial Cleaning",
+          "desc": "Keep your office, retail space or restaurant spotless with our after-hours commercial cleaning services.",
+          "price": "$299",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/service-3.jpg",
+          "alt": "Deep cleaning service",
+          "icon": "fa-broom",
+          "tag": "Intensive",
+          "title": "Deep Cleaning",
+          "desc": "Our thorough deep clean tackles grime, inside appliances, baseboards and every hard-to-reach area.",
+          "price": "$399",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        }
+      ]
+    },
+    "moveOut": {
+      "heading": {
+        "eyebrowIcon": "fa-box-open",
+        "eyebrow": "Move-Out & End-of-Tenancy",
+        "title": "Move-Out Cleaning",
+        "subtitle": "Moving? Let us handle the deep clean so you can get your full security deposit back. Our move-out service covers everything from inside appliances to window tracks."
+      },
+      "checklist": [
+        "Interior & exterior of cabinets",
+        "Inside oven, microwave & refrigerator",
+        "Baseboards and window sills",
+        "Bathrooms deep-scrubbed",
+        "Floors polished and streak-free"
+      ],
+      "cta": {
+        "label": "Get Your Free Quote",
+        "href": "/contact",
+        "icon": "fa-arrow-right"
+      },
+      "media": {
+        "mainImg": "/img/service-4.jpg",
+        "alt": "Move out cleaning service",
+        "badgeIcon": "fa-shield-halved",
+        "badgeNum": "100%",
+        "badgeLabel": "satisfaction guarantee"
+      }
+    },
+    "specialized": {
+      "eyebrowIcon": "fa-wand-magic-sparkles",
+      "eyebrow": "Specialized Services",
+      "title": "Carpet, Upholstery & More",
+      "subtitle": "Revive your carpets, furniture and surfaces with our deep extraction and steam-cleaning specialists.",
+      "items": [
+        {
+          "img": "/img/interior-1.jpg",
+          "alt": "Carpet cleaning service",
+          "icon": "fa-layer-group",
+          "title": "Carpet Cleaning",
+          "desc": "Hot-water extraction removes deep stains, odors and allergens from every carpet.",
+          "price": "From $89",
+          "note": "per room",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/interior-2.jpg",
+          "alt": "Upholstery cleaning service",
+          "icon": "fa-couch",
+          "title": "Upholstery Cleaning",
+          "desc": "Gentle yet powerful steam cleaning that revives sofas, chairs and cushions.",
+          "price": "From $119",
+          "note": "per piece",
+          "ctaLabel": "Book Now"
+        },
+        {
+          "img": "/img/interior-3.jpg",
+          "alt": "Window and glass cleaning service",
+          "icon": "fa-window-maximize",
+          "tag": "New",
+          "title": "Window & Glass",
+          "desc": "Streak-free windows, mirrors and glass partitions — inside and out.",
+          "price": "From $139",
+          "note": "per visit",
+          "ctaLabel": "Book Now"
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrowIcon": "fa-tag",
+      "eyebrow": "Our Pricing",
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Choose the plan that fits your needs. All services include our 100% satisfaction guarantee.",
+      "popularLabel": "Most Popular",
+      "plans": [
+        {
+          "name": "Basic",
+          "sub": "Standard cleaning essentials",
+          "price": "99",
+          "period": "/visit",
+          "features": [
+            {
+              "text": "Standard cleaning"
+            },
+            {
+              "text": "Kitchen & bathrooms"
+            },
+            {
+              "text": "Vacuum & mop"
+            },
+            {
+              "text": "Deep clean",
+              "muted": true
+            },
+            {
+              "text": "Inside appliances",
+              "muted": true
+            }
+          ],
+          "cta": "Get Started"
+        },
+        {
+          "name": "Premium",
+          "sub": "Everything in Basic plus detail work",
+          "price": "199",
+          "period": "/visit",
+          "popular": true,
+          "features": [
+            {
+              "text": "Everything in Basic"
+            },
+            {
+              "text": "Deep clean"
+            },
+            {
+              "text": "Inside appliances"
+            },
+            {
+              "text": "Baseboards"
+            },
+            {
+              "text": "Carpet shampoo",
+              "muted": true
+            }
+          ],
+          "cta": "Get Started",
+          "ctaVariant": "accent"
+        },
+        {
+          "name": "Ultimate",
+          "sub": "Full-service deep restoration",
+          "price": "349",
+          "period": "/visit",
+          "features": [
+            {
+              "text": "Everything in Premium"
+            },
+            {
+              "text": "Carpet shampoo"
+            },
+            {
+              "text": "Window cleaning inside"
+            },
+            {
+              "text": "Exterior windows"
+            },
+            {
+              "text": "Interior organization"
+            }
+          ],
+          "cta": "Get Started"
+        }
+      ]
+    }
+  },
+  "site": {
+    "name": "SparkleClean",
+    "meta": {
+      "title": "SparkleClean — Premium Cleaning Services for Home & Office",
+      "description": "Premium residential and commercial cleaning services. Vetted, insured professionals, eco-friendly products and a 100% satisfaction guarantee. Book online 24/7."
+    },
+    "brandPrefix": "Sparkle",
+    "brandAccent": "Clean",
+    "brandIcon": "fa-solid fa-sparkles",
+    "tagline": "Premium Cleaning Services",
+    "phone": "(800) 555-1234",
+    "phoneHref": "tel:+18005551234",
+    "email": "hello@sparkleclean.com",
+    "emailHref": "mailto:hello@sparkleclean.com",
+    "addressLines": [
+      "1234 Clean Street, Suite 200",
+      "San Francisco, CA 94103"
+    ],
+    "hoursShort": [
+      {
+        "days": "Mon–Fri",
+        "time": "7 AM – 9 PM"
+      },
+      {
+        "days": "Sat–Sun",
+        "time": "8 AM – 6 PM"
+      }
+    ],
+    "rating": {
+      "stars": 5,
+      "value": "4.9/5",
+      "countLabel": "from 2,500+ verified reviews"
+    },
+    "socials": [
+      {
+        "label": "Facebook",
+        "icon": "fa-brands fa-facebook-f",
+        "href": "#!"
+      },
+      {
+        "label": "Twitter",
+        "icon": "fa-brands fa-x-twitter",
+        "href": "#!"
+      },
+      {
+        "label": "Instagram",
+        "icon": "fa-brands fa-instagram",
+        "href": "#!"
+      },
+      {
+        "label": "LinkedIn",
+        "icon": "fa-brands fa-linkedin-in",
+        "href": "#!"
+      }
+    ],
+    "license": "Licensed & Insured • ROC #123456",
+    "copyright": "SparkleClean Professional Services. All rights reserved.",
+    "copyrightYear": 2025,
+    "notFound": {
+      "code": "404",
+      "icon": "fa-broom-ball",
+      "title": "Page Not Found",
+      "text": "Oops! The page you're looking for seems to have vanished into thin air.\nWe've swept it up and it's not here.",
+      "cta": "Return to Homepage"
+    }
+  },
+  "team": {
+    "meta": {
+      "title": "Our Team",
+      "description": "Meet the SparkleClean team. Our certified, insured and professional cleaners deliver spotless results with quality service.",
+      "keywords": "cleaning team, professional cleaners, certified cleaners, SparkleClean"
+    },
+    "pageHeader": {
+      "title": "Meet Our Team",
+      "crumb": "Our Team"
+    },
+    "team": {
+      "eyebrowIcon": "fa-users",
+      "eyebrow": "Our Team",
+      "title": "The SparkleClean Professionals",
+      "subtitle": "Certified, background-checked and passionate about spotless results.",
+      "members": [
+        {
+          "img": "/img/team-1.jpg",
+          "alt": "Maria Gonzalez, Head of Cleaning Operations",
+          "name": "Maria Gonzalez",
+          "role": "Head of Operations",
+          "rating": "4.9"
+        },
+        {
+          "img": "/img/team-2.jpg",
+          "alt": "James Carter, Commercial Cleaning Lead",
+          "name": "James Carter",
+          "role": "Commercial Lead",
+          "rating": "4.8"
+        },
+        {
+          "img": "/img/team-3.jpg",
+          "alt": "Emily Nguyen, Deep Clean Specialist",
+          "name": "Emily Nguyen",
+          "role": "Deep Clean Specialist",
+          "rating": "4.9"
+        },
+        {
+          "img": "/img/team-4.jpg",
+          "alt": "David Okafor, Equipment and Supplies Manager",
+          "name": "David Okafor",
+          "role": "Equipment Manager",
+          "rating": "4.8"
+        }
+      ]
+    },
+    "certifications": {
+      "eyebrowIcon": "fa-certificate",
+      "eyebrow": "Certifications",
+      "title": "Trained, Certified & Ready",
+      "subtitle": "Our team members complete continuous training so every clean meets the SparkleClean standard.",
+      "items": [
+        {
+          "icon": "fa-ribbon",
+          "title": "OSHA Certified",
+          "desc": "Workplace safety standards training"
+        },
+        {
+          "icon": "fa-leaf",
+          "title": "Green Cleaning",
+          "desc": "Eco-friendly product certification"
+        },
+        {
+          "icon": "fa-user-shield",
+          "title": "Background Checked",
+          "desc": "Every member is fully vetted"
+        },
+        {
+          "icon": "fa-medal",
+          "title": "Continuous Training",
+          "desc": "Monthly technique refreshers"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready for a Sparkling Clean?",
+      "subtitle": "Book your service today and let our certified team do the rest.",
+      "primaryLabel": "Get Your Free Quote",
+      "secondaryLabel": "View Services",
+      "secondaryHref": "/services",
+      "floats": [
+        "fa-sparkles",
+        "fa-broom"
+      ]
+    }
+  },
+  "testimonials": {
+    "meta": {
+      "title": "Testimonials",
+      "description": "Read real reviews from happy SparkleClean customers. See why we're rated 4.9/5 for our premium cleaning services.",
+      "keywords": "cleaning testimonials, customer reviews, cleaning service reviews, SparkleClean reviews"
+    },
+    "pageHeader": {
+      "title": "What Our Customers Say",
+      "crumb": "Testimonials",
+      "variant": "tall"
+    },
+    "rating": {
+      "stars": 5,
+      "value": "4.9 / 5.0",
+      "sub": "from 2,500+ verified reviews across all platforms"
+    },
+    "featured": {
+      "tag": "Featured Reviews",
+      "title": "Real Stories, Real Results",
+      "reviews": [
+        {
+          "quote": "SparkleClean completely transformed my home. The attention to detail is incredible — my kitchen has never been this clean. Maria and her team are true professionals!",
+          "name": "Emily Rodriguez",
+          "role": "San Francisco, CA",
+          "avatar": "/img/testimonial-1.jpg"
+        },
+        {
+          "quote": "As a business owner, I need reliable service. SparkleClean has been cleaning our office for 2 years — consistent, thorough, and always on time. Highly recommend!",
+          "name": "Michael Torres",
+          "role": "TechStart Inc., Portland",
+          "avatar": "/img/testimonial-2.jpg"
+        },
+        {
+          "quote": "We just moved and hired SparkleClean for move-out cleaning. The place looked brand new! Got our full deposit back. Worth every penny.",
+          "name": "Jessica & David Kim",
+          "role": "Seattle, WA",
+          "avatar": "/img/testimonial-3.jpg"
+        }
+      ]
+    },
+    "stats": [
+      {
+        "count": 2500,
+        "label": "Happy Customers"
+      },
+      {
+        "count": 12000,
+        "label": "Homes Cleaned"
+      },
+      {
+        "count": 15,
+        "label": "Years Experience"
+      },
+      {
+        "count": 49,
+        "label": "Avg. Rating"
+      }
+    ],
+    "cta": {
+      "title": "Ready for a Spotless Space?",
+      "subtitle": "Join 2,500+ happy customers who trust SparkleClean for their cleaning needs.",
+      "label": "Get Your Free Quote Today",
+      "href": "/contact"
+    }
+  }
+}
